@@ -1,0 +1,8 @@
+venv/
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+App/saved_models/Bias 
+App/saved_models/FakeNews
