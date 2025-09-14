@@ -1,1 +1,2 @@
-https://www.kaggle.com/models/gandpablo/bias-and-fake-news-detection-models
+Download the models from: https://www.kaggle.com/models/gandpablo/bias-and-fake-news-detection-models
+There you can find the basic description and usage guide, as well as in the readme of this project
